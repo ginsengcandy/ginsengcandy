@@ -36,8 +36,6 @@ Java 21 · Spring Boot · MySQL · Redis · AWS ECS · Prometheus · Grafana
 - Removed redundant pessimistic locking while retaining distributed locking
   for multi-instance concurrency control.
 - Added atomic inventory updates as the final safeguard against overselling.
-- Designed an event delivery architecture using the Transactional Outbox
-  pattern, SQS, idempotent consumers, and a DLQ.
 
 [Repository](https://github.com/all-in-market) · [Architecture](https://github.com/all-in-market/.github/blob/main/image/AllInMarket-Architecture.png)
 
