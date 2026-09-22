@@ -3,12 +3,13 @@
 AI-native full-stack developer focused on Java, Spring Boot, and AWS.
 
 I diagnose backend bottlenecks using measurable evidence and improve systems through practical architectural decisions.  <br>
-Currently building a collaborative development environment and deployment workflow at ScaleUpSquad. <br>
+Currently building a collaborative development environment and deployment workflow at [ScaleUpSquad](https://github.com/scaleup-squad). <br>
 
 Passionate about music(I do bands), live performance, weightlifting, running, and socializing. <br>
 I have a vision of making people more self-aware and confident through technology.
 
-[Email](mailto:kimsparadise0202@gmail.com) ·
+📫 How to reach me:
+[Email](mailto:kimsparadise0202@gmail.com) 
 [LinkedIn](https://www.linkedin.com/in/김세현3402)
 
 
@@ -41,7 +42,6 @@ Java 21 · Spring Boot · MySQL · Redis · AWS ECS · Prometheus · Grafana
 [Repository](https://github.com/all-in-market) · [Architecture](https://github.com/all-in-market/.github/blob/main/image/AllInMarket-Architecture.png)
 
 ## Certifications
- ### AWS Certified Solutions Architect (SAA-C03) (Date issued: July 16, 2026)
 <a href="https://www.credly.com/badges/f9140deb-aa7d-4599-9659-eae4d74d0ae9/public_url">
   <img src="./.assets/aws-saa-badge.png"
        width="120"
