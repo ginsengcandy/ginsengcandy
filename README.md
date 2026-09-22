@@ -6,7 +6,10 @@
 
 ## Certifications
  ### AWS Certifified Solutions Architect (SAA-C03)
-<a href = https://www.credly.com/badges/f9140deb-aa7d-4599-9659-eae4d74d0ae9/public_url>  
+<a href = https://www.credly.com/badges/f9140deb-aa7d-4599-9659-eae4d74d0ae9/public_url>
+  <img src = "./assets/aws-saa-badge.png"
+    width = "150"
+    alt = "AWS Certified Solutions Architect - Associate">
 </a>
 
 ## Contact
